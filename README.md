@@ -27,4 +27,16 @@ Here are some of the automation projects I've created:
    - [View project](./ai-customer-support)
      
 ---
-💡 Want me to build automations for you? Contact me on [Upwork]([#](https://www.upwork.com/freelancers/~01f5165a44fedbcfbc)) or [LinkedIn]([#](https://www.linkedin.com/in/mahmoudmoustafa07/)).
+💡 Want me to build automations for you? 
+Contact me on <a href="https://www.upwork.com/freelancers/~01f5165a44fedbcfbc" target="_blank">Upwork</a> 
+or <a href="https://www.linkedin.com/in/mahmoudmoustafa07/" target="_blank">LinkedIn</a>.
+
+💡 Want me to build automations for you?
+
+<a href="https://www.upwork.com/freelancers/~01f5165a44fedbcfbc" target="_blank" style="background-color:#14a800;color:white;padding:10px 18px;text-decoration:none;border-radius:6px;font-weight:bold;">
+Hire Me on Upwork
+</a>
+
+<a href="https://www.linkedin.com/in/mahmoudmoustafa07/" target="_blank" style="background-color:#0077b5;color:white;padding:10px 18px;text-decoration:none;border-radius:6px;font-weight:bold;margin-left:10px;">
+Connect on LinkedIn
+</a>
