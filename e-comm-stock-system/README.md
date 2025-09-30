@@ -28,6 +28,5 @@ Impact:
 
 Main dashboard:
 ![Main Workflow](./screenshots/ecomm.png)
-
 Stock update flow:
 ![Case Study](./screenshots/ecomm1.jpg)
