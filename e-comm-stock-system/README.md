@@ -23,3 +23,11 @@ Impact:
 -Improved accuracy by eliminating human errors.
 
 -Gave the team instant visibility of new sales.
+
+## 📸 Screenshots
+
+Main dashboard:
+![Main Script](./screenshots/ecomm.png)
+
+Stock update flow:
+![Case Study](./screenshots/ecomm1.jpg)
