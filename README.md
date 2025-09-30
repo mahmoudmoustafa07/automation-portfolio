@@ -33,10 +33,5 @@ or <a href="https://www.linkedin.com/in/mahmoudmoustafa07/" target="_blank">Link
 
 💡 Want me to build automations for you?
 
-<a href="https://www.upwork.com/freelancers/~01f5165a44fedbcfbc" target="_blank" style="background-color:#14a800;color:white;padding:10px 18px;text-decoration:none;border-radius:6px;font-weight:bold;">
-Hire Me on Upwork
-</a>
-
-<a href="https://www.linkedin.com/in/mahmoudmoustafa07/" target="_blank" style="background-color:#0077b5;color:white;padding:10px 18px;text-decoration:none;border-radius:6px;font-weight:bold;margin-left:10px;">
-Connect on LinkedIn
-</a>
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f5165a44fedbcfbc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudmoustafa07/)
