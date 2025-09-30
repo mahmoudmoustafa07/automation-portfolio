@@ -27,7 +27,7 @@ Impact:
 ## 📸 Screenshots
 
 Main dashboard:
-![Main Script](./screenshots/ecomm.png)
+![Main Workflow](./screenshots/ecomm.png)
 
 Stock update flow:
 ![Case Study](./screenshots/ecomm1.jpg)
