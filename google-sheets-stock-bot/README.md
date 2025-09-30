@@ -19,5 +19,7 @@ I built an n8n workflow that:
 Impact:
 
 -Saved over 10 hours per week of manual entry.
+
 -Improved accuracy by eliminating human errors.
+
 -Gave the team instant visibility of new sales.
